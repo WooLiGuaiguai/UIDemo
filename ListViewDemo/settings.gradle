@@ -1,0 +1,2 @@
+include ':app', ':entrieslistview', ':simpleadapter', ':baseadapter'
+rootProject.name='ListViewDemo'
