@@ -1,7 +1,7 @@
 # UIDemo
-主要是ListView和RecyclerView的相关使用 
-
-1. ListViewDemo里面主要是ListView的相关学习
+主要是ListView和RecyclerView的相关使用  
+ 
+1. ListViewDemo里面主要是ListView的相关学习  
 
 - app--使用String数组为listview添加数据的实现
 1. 创建页面布局，里面设置好list_view
